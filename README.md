@@ -1,4 +1,4 @@
-# MyWalletO
+# MyWalleto
 
 MyWalleto is a sleek personal finance dashboard built with React and Vite. It helps users track income and expenses, monitor budget health, view recent activity, and manage their financial records in a clean, modern interface.
 
